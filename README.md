@@ -75,9 +75,3 @@ O acesso é concedido mediante um **código**, com duração de **1 hora**. Apó
 - Desenvolvido para processos de logística reversa integrados ao SAP.  
 - Consolida múltiplos scripts em um **workflow único e otimizado**.  
 - Possui **gerenciamento de acesso seguro** para evitar conflitos.
-
----
-
-## Licença
-
-*(Adicionar a licença do projeto, ex: MIT, Apache 2.0, etc.)*
